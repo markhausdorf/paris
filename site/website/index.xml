@@ -8,7 +8,7 @@
 	<file-name>index.xml</file-name>
 	<internal-name>Home</internal-name>
 	<orderDefault_f>-1</orderDefault_f>
-	<body_html>&lt;h1&gt;I'm using the Crafter CMS Site with github pushes&lt;br /&gt;&lt;/h1&gt;
+	<body_html>&lt;h1&gt;I'm using the Crafter CMS Site with github pushes.&lt;br /&gt;&lt;/h1&gt;
 &lt;div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;/div&gt;</body_html>
@@ -17,8 +17,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2020-01-16T16:03:47.503Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-16T16:03:47.503Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-16T16:05:48.698Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-16T16:05:48.698Z</lastModifiedDate_dt>
 	<title_t>Hello worldies!</title_t>
 	<disabled>false</disabled>
 </page>
